@@ -1,0 +1,110 @@
+body {
+	margin: 0;
+}
+.firstBlock{
+	background-image: url(img/header-bg.jpg);
+	background-position: center;
+	background-size: cover;
+	height: 750px;
+}
+.header .logo img{
+	height: 32px;
+}
+.header .logo, .menu ul li{
+	display: inline-block;
+}
+.menu ul{
+	margin: 9px 0;
+    padding: 0;
+}
+.header .menu{
+	float: right;
+}
+.header{
+	padding: 30px 0;
+	width: 1140px;
+	margin: 0 auto;
+}
+.menu ul li{
+	padding: 0 15px;
+	color: #fff;
+	font-size: 18px;
+}
+.title {
+	text-align: center;
+	color: #fff;
+	margin-top: 150px;
+}
+.button{
+	color:#fff;
+	padding:25px 30px;
+	background-color: #fed136;
+	text-decoration:none;
+	font-size: 20px;
+	font-weight: 600;
+	border-radius: 5px;
+}
+.title h1{
+	font-size:65px;
+	margin-bottom: 60px;
+}
+.title h2{
+	font-size: 40px;
+}
+.SERVICES h2, .SERVICES h3{
+margin: 0;
+text-align: center;
+}
+.SERVICES h2{
+	font-size: 45px;
+	margin: 100px 0 0 0;
+}
+.SERVICES h3{
+	font-style:italic;
+	opacity: 0.6;	
+}
+.icon{
+	width: 120px;
+	height: 100px;
+	display: inline-block;
+	background-color: #fed136;
+	text-align: center;
+	padding: 20px 0 0 0;
+	border-radius: 50%;
+}
+.icon i{
+	margin-bottom: 15px;
+	font-size: 70px;
+    color: #fff;
+} 
+.icons {
+	width: 1140px;
+	margin: 30px auto;
+}
+.SERVICES div h4,p{
+	font-size: 20px;
+	padding: 15px auto:;
+}
+.cart, .lock, .laptop{
+	display: inline-block;
+	width: calc(1090px / 3);
+	text-align: center;
+}
+.portfolio {
+	margin-top: 50px; 
+    text-align: center;
+}
+.portfolio h4{
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.portfolio p{
+	font-style: italic;
+	opacity: 0.6;
+}
+.portfolio div{
+	display: inline-block;
+}
+.portfolio{
+	margin-top:150px
+ }
