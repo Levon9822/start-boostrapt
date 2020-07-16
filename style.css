@@ -1,3 +1,7 @@
+
+*{
+	    box-sizing: border-box;
+}
 body {
 	margin: 0;
 }
@@ -109,3 +113,61 @@ text-align: center;
 .portfolio{
 	margin-top:150px
  }
+.about{
+	margin-top: 150px;
+}
+.about h4{
+	font-size: 50px;
+	margin-bottom: 0;
+}
+.about p{
+	font-style: italic;
+	opacity: 0.6;
+}
+.about h4, p{
+	text-align:center;
+
+}
+.about .imges{
+	    width: 960px;
+    /* text-align: center; */
+    margin: 0 auto;
+}
+.about .imges div img{
+
+	border: 7px solid #e9ecef;
+	border-radius: 50%;
+	display: inline-block;
+	margin: 0 auto;
+	
+}
+.about .imges div h4{
+	border: 7px solid #e9ecef;
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+    text-align: center;
+    background-color: #fed136;
+	font-size: 20px;
+	color: #fff;
+	padding-top: 52px;
+	margin: 0 auto;
+}
+
+.row div{
+	display: inline-block;
+
+}
+.col-4{
+	width: 38%;
+    padding: 0 25px;
+}
+.col-6{
+	width: 61%
+}
+.text-right, .text-right p{
+	text-align: right;
+}
+.text-left, .text-left p{
+	text-align: left;
+}
