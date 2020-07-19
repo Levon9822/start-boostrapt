@@ -171,3 +171,83 @@ text-align: center;
 .text-left, .text-left p{
 	text-align: left;
 }
+.img777{
+	margin:150px 0  0 200px;
+}
+.img777 div {
+	display: inline-block;
+	text-align: center;
+	padding: 0 70px
+
+}
+.foto img{
+	border: 7px solid #e9ecef;
+	border-radius: 50%;
+	width: 250px;
+	height: 250px;
+}
+.img777 p{
+	font-style: italic;
+	opacity: 0.6;
+}
+.img777 h4{
+  font-size: 25px;
+  margin: 0;
+}
+.text44{
+	margin: 100px;
+	text-align: center;
+	opacity: 0.6;
+	font-size: 25px;
+}
+.foto11{
+	padding: 0 30px 0 0;
+}
+.foto12{
+	padding: 0 30px;
+}
+.foto13{
+	padding: 0 30px;
+}
+.foto14{
+	padding: 0 30px;
+}
+footer{
+	margin: 0;
+	width: 100%;
+	height: 650px;
+	background-color: #000;
+	background-image: url(img/map-image.png);
+}
+footer p {
+font-style: italic;
+	opacity: 0.6;	
+}
+footer h4{
+	font-size: 40px;
+	margin:100px 0 0 0;
+	padding: 100px 0 0 0;
+}
+footer h4,p{
+	text-align: center;
+	color: #fff;
+}
+.textinput input{
+	height: 30px;
+	width: 400px;
+	padding: 15px 5px;
+	margin: 20px 30px;
+} 
+.textarea, .textinput{
+	margin: 0 0 0 250px;
+	display: inline-block;
+	height: 500px;
+}
+.textarea{
+	margin: 50px;
+
+}
+
+
+
+
